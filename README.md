@@ -1,13 +1,11 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Md+Hamid+Azam;MERN+Stack+Developer;Future+AI%2FML+Engineer;Building+Real+World+Projects"/>
-</p>
+<h1 align="center">Hi 👋, I'm Md Hamid Azam</h1>
+<h3 align="center">MERN Stack Developer | Future AI/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Future+AI%2FML+Engineer;Building+Cool+Projects;Always+Learning+New+Things"/>
 </p>
 
+---
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Md+Hamid+Azam;MERN+Stack+Developer;Future+AI%2FML+Engineer;Building+Real+World+Projects"/>
