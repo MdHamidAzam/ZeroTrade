@@ -7,6 +7,9 @@
 
 ---
 
+👀 Profile Views Counter
+![](https://komarev.com/ghpvc/?username=MdHamidAzam&color=blue)
+
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -34,6 +37,10 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MdHamidAzam&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🧠 Coding Activity Graph
 
 <p align="center">
@@ -47,6 +54,11 @@
 ![snake gif](https://github.com/MdHamidAzam/ZeroTrade/raw/output/github-contribution-grid-snake.svg)
 
 ---
+
+🌐 Social Links Section
+## 🌐 Connect With Me
+
+[LinkedIn](#) | [Twitter](#) | [Portfolio](#)
 
 # Zerodha Clone
 
