@@ -66,7 +66,7 @@ npm start
 
 ## 📌 Purpose of the Project
 
-The goal of this project is to understand the architecture of real world trading platforms and practice building scalable full stack applications using the MERN stack.
+Full stack Zerodha trading platform clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It includes a responsive landing page, trading dashboard, and backend APIs to simulate features like holdings, orders, and portfolio tracking while demonstrating modern full-stack architecture and scalable application design.
 
 ## 👨‍💻 Author
 
