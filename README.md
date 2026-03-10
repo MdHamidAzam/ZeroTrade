@@ -18,7 +18,9 @@
 
 ## 📊 GitHub Stats
 
-![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight"/>
+</p>
 
 ![snake gif](https://github.com/MdHamidAzam/MdHamidAzam/blob/output/github-contribution-grid-snake.svg)
 
