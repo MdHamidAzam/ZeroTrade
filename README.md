@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight&rank_icon=github"/>
 </p>
 
 ---
