@@ -43,7 +43,7 @@ ZerodhaClone
 Clone the repository:
 
 ```
-git clone https://github.com/MdHamidAzam/ZerodhaClone.git
+git clone https://github.com/MdHamidAzam/ZEroTrade.git
 ```
 
 Go to the project directory:
