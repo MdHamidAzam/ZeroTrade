@@ -49,7 +49,7 @@ git clone https://github.com/MdHamidAzam/ZeroTrade.git
 Go to the project directory:
 
 ```
-cd ZerodhaClone
+cd ZeroTrade
 ```
 
 Install dependencies:
