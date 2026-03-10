@@ -10,11 +10,9 @@
 
 ## 🚀 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,vscode"/>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -22,7 +20,29 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight"/>
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MdHamidAzam&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Coding Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdHamidAzam&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
 ![snake gif](https://github.com/MdHamidAzam/MdHamidAzam/raw/output/github-contribution-grid-snake.svg)
+
+---
 
 # Zerodha Clone
 
