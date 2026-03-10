@@ -1,3 +1,27 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Md+Hamid+Azam;MERN+Stack+Developer;Future+AI%2FML+Engineer;Building+Real+World+Projects"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js"/>
+</p>
+
+## 🚀 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
+## 📊 GitHub Stats
+
+![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight)
+
+![snake gif](https://github.com/MdHamidAzam/MdHamidAzam/blob/output/github-contribution-grid-snake.svg)
+
 # Zerodha Clone
 
 A full stack clone of the Zerodha trading platform built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
