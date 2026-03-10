@@ -44,7 +44,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/MdHamidAzam/MdHamidAzam/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MdHamidAzam/ZeroTrade/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
