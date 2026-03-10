@@ -17,12 +17,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight"/>
 </p>
 
-![snake gif](https://github.com/MdHamidAzam/MdHamidAzam/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MdHamidAzam/MdHamidAzam/raw/output/github-contribution-grid-snake.svg)
 
 # Zerodha Clone
 
