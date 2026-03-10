@@ -16,8 +16,7 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
-📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight"/>
