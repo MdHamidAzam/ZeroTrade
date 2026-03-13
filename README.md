@@ -58,7 +58,7 @@
 🌐 Social Links Section
 ## 🌐 Connect With Me
 
-[LinkedIn](#) | [Twitter](#) | [Portfolio](#)
+[LinkedIn](md-hamid-azam-54aaab309) | [Twitter](#) | [Portfolio](#)
 
 # Zerodha Clone
 
