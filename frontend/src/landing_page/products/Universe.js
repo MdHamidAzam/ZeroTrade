@@ -18,7 +18,7 @@ function Universe({
 
         <div className="col-4 p-3 mt-5">
           <img
-            src="media/images/zerodhaFundhouse.png"
+            src="media/images/zerodhaFundhouse.png" alt="/"
             style={{ width: "200px" }}
           />
           <p className="text-small text-muted">
@@ -28,7 +28,7 @@ function Universe({
         </div>
         <div className="col-4 p-3 mt-5">
           <img
-            src="media/images/sensibullLogo.png"
+            src="media/images/sensibullLogo.png" alt="/"
             style={{ width: "170px" }}
           />
           <p className="text-small text-muted">
@@ -38,28 +38,28 @@ function Universe({
           </p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/goldenpiLogo.png" style={{ width: "170px" }} />
+          <img src="media/images/goldenpiLogo.png" alt="/" style={{ width: "170px" }} />
           <p className="text-small text-muted">
             Investment research platform that offers detailed insights on
             stocks, sectors, supply chains, and more.
           </p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/streakLogo.png" style={{ width: "170px" }} />
+          <img src="media/images/streakLogo.png" alt="/" style={{ width: "170px" }} />
           <p className="text-small text-muted">
             Systematic trading platform that allows you to create and backtest
             strategies without coding.
           </p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/smallcaseLogo.png" />
+          <img src="media/images/smallcaseLogo.png" alt="/" />
           <p className="text-small text-muted">
             Thematic investing platform that helps you invest in diversified
             baskets of stocks on ETFs.
           </p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/dittoLogo.png" style={{ width: "150px" }} />
+          <img src="media/images/dittoLogo.png" alt="/" style={{ width: "150px" }} />
           <p className="text-small text-muted">
             Personalized advice on life and health insurance. No spam and no
             mis-selling.

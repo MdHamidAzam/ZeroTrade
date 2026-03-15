@@ -31,7 +31,11 @@ function Stats() {
           </p>
         </div>
         <div className="col-6 p-5">
-          <img src="media/images/ecosystem.png" style={{ width: "100%" }} />
+          <img
+            src="media/images/ecosystem.png"
+            alt="/"
+            style={{ width: "100%" }}
+          />
           <div className="text-centre">
             <a href="/" className="mx-5" style={{ textDecoration: "none" }}>
               Explore our products{" "}

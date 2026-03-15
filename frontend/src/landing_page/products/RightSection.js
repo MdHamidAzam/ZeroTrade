@@ -24,7 +24,7 @@ function RightSection({
           </div>
         </div>
         <div className="col-6">
-          <img src={imageURL} style={{ width: "90%" }} />
+          <img src={imageURL} style={{ width: "90%" }} alt="/" />
         </div>
       </div>
     </div>
