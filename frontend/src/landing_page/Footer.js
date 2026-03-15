@@ -6,7 +6,11 @@ function Footer() {
       <div className="container border-top mt-5">
         <div className="row mt-5">
           <div className="col-6 col-md-3">
-            <img src="media/images/logo.svg" alt="Zerodha Logo" style={{ width: "50%" }} />
+            <img
+              src="media/images/logo.svg"
+              alt="Zerodha Logo"
+              style={{ width: "50%" }}
+            />
             <p>&copy; 2010 - 2026, Zerodha Broking Ltd. All rights reserved.</p>
           </div>
           <div className="col">
@@ -93,18 +97,30 @@ function Footer() {
             Registered Address: Zerodha Broking Ltd., #153/154, 4th Cross,
             Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase,
             Bengaluru - 560078, Karnataka, India. For any complaints pertaining
-            to securities broking please write to complaints@zerodha.com, for DP
-            related to dp@zerodha.com. Please ensure you carefully read the Risk
-            Disclosure Document as prescribed by SEBI | ICF
+            to securities broking please write to{" "}
+            <a href="" style={{ textDecoration: "none" }}>
+              complaints@zerodha.com
+            </a>
+            , for DP related to{" "}
+            <a href="" style={{ textDecoration: "none" }}>
+              dp@zerodha.com
+            </a>
+            . Please ensure you carefully read the Risk Disclosure Document as
+            prescribed by SEBI | ICF
           </p>
           <p>
-            Procedure to file a complaint on SEBI SCORES: Register on SCORES
-            portal. Mandatory details for filing complaints on SCORES: Name,
-            PAN, Address, Mobile Number, E-mail ID. Benefits: Effective
-            Communication, Speedy redressal of the grievances
+            Procedure to file a complaint on{" "}
+            <a href="" style={{ textDecoration: "none" }}>
+              SEBI SCORES
+            </a>
+            : Register on SCORES portal. Mandatory details for filing complaints
+            on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits:
+            Effective Communication, Speedy redressal of the grievances
           </p>
           <p>
-            Smart Online Dispute Resolution | Grievances Redressal Mechanism
+            <a href="" style={{ textDecoration: "none" }}>
+              Smart Online Dispute Resolution | Grievances Redressal Mechanism
+            </a>
           </p>
           <p>
             Investments in securities market are subject to market risks; read
@@ -120,8 +136,10 @@ function Footer() {
             consolidated account statement issued by NSDL/CDSL every month
           </p>
           <p>
-            India's largest broker based on networth as per NSE. NSE broker
-            factsheet
+            India's largest broker based on networth as per NSE.{" "}
+            <a href="" style={{ textDecoration: "none" }}>
+              NSE broker factsheet
+            </a>
           </p>
           <p>
             "Prevent unauthorised transactions in your account. Update your
@@ -139,7 +157,10 @@ function Footer() {
             bank account. As a business we don't give stock tips, and have not
             authorized anyone to trade on behalf of others. If you find anyone
             claiming to be part of Zerodha and offering such services, please
-            create a ticket here.
+            <a href="" style={{ textDecoration: "none" }}>
+              create a ticket here
+            </a>
+            .
           </p>
           <p>
             *Customers availing insurance advisory services offered by Ditto
@@ -149,16 +170,16 @@ function Footer() {
             arbitration mechanism for such products.
           </p>
           <div className="text-center mt-4 pb-4 footer-links">
-  <a href="">NSE</a>
-  <a href="">BSE</a>
-  <a href="">MCX</a>
-  <a href="">Terms & conditions</a>
-  <a href="">Policies & procedures</a>
-  <a href="">Privacy policy</a>
-  <a href="">Disclosure</a>
-  <a href="">For investor's attention</a>
-  <a href="">Investor charter</a>
-</div>
+            <a href="">NSE</a>
+            <a href="">BSE</a>
+            <a href="">MCX</a>
+            <a href="">Terms & conditions</a>
+            <a href="">Policies & procedures</a>
+            <a href="">Privacy policy</a>
+            <a href="">Disclosure</a>
+            <a href="">For investor's attention</a>
+            <a href="">Investor charter</a>
+          </div>
         </div>
       </div>
     </footer>

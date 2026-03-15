@@ -62,7 +62,7 @@ function Navbar() {
             ) : (
               <li className="nav-item">
                 <button
-                  className="btn btn-outline-danger ms-3"
+                  className="btn btn-outline-danger ms-3 logout-btn"
                   onClick={handleLogout}
                 >
                   Logout
