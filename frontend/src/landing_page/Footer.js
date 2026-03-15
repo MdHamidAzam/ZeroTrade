@@ -15,74 +15,74 @@ function Footer() {
           </div>
           <div className="col">
             <p>Account</p>
-            <a href="">Minor demat account</a>
+            <a href="/">Minor demat account</a>
             <br />
-            <a href="">NRI demat account</a>
+            <a href="/">NRI demat account</a>
             <br />
-            <a href="">Open demat account</a>
+            <a href="/">Open demat account</a>
             <br />
-            <a href="">Commodity</a>
+            <a href="/">Commodity</a>
             <br />
-            <a href="">Fund transfer</a>
+            <a href="/">Fund transfer</a>
             <br />
-            <a href="">Dematerialisation</a>
+            <a href="/">Dematerialisation</a>
             <br />
-            <a href="">MTF</a>
+            <a href="/">MTF</a>
             <br />
-            <a href="">Referral program</a>
+            <a href="/">Referral program</a>
             <br />
           </div>
           <div className="col">
             <p>Support</p>
-            <a href="">Contact us</a>
+            <a href="/">Contact us</a>
             <br />
-            <a href="">Support portal</a>
+            <a href="/">Support portal</a>
             <br />
-            <a href="">How to file a complaint?</a>
+            <a href="/">How to file a complaint?</a>
             <br />
-            <a href="">Status of your complaints</a>
+            <a href="/">Status of your complaints</a>
             <br />
-            <a href="">Bulletin</a>
+            <a href="/">Bulletin</a>
             <br />
-            <a href="">DCircular</a>
+            <a href="/">DCircular</a>
             <br />
-            <a href="">Z-Connect blog</a>
+            <a href="/">Z-Connect blog</a>
             <br />
-            <a href="">Downloads</a>
+            <a href="/">Downloads</a>
             <br />
           </div>
           <div className="col">
             <p>Company</p>
-            <a href="">About</a>
+            <a href="/">About</a>
             <br />
-            <a href="">Philosophy</a>
+            <a href="/">Philosophy</a>
             <br />
-            <a href="">Press & media</a>
+            <a href="/">Press & media</a>
             <br />
-            <a href="">Careers</a>
+            <a href="/">Careers</a>
             <br />
-            <a href="">Zerodha Cares (CSR)</a>
+            <a href="/">Zerodha Cares (CSR)</a>
             <br />
-            <a href="">Zerodha.tech</a>
+            <a href="/">Zerodha.tech</a>
             <br />
-            <a href="">Open source</a>
+            <a href="/">Open source</a>
             <br />
           </div>
           <div className="col">
             <p>Quick links</p>
-            <a href="">Upcoming IPOs</a>
+            <a href="/">Upcoming IPOs</a>
             <br />
-            <a href="">Brokerage charges</a>
+            <a href="/">Brokerage charges</a>
             <br />
-            <a href="">Market holidays</a>
+            <a href="/">Market holidays</a>
             <br />
-            <a href="">Economic calendar</a>
+            <a href="/">Economic calendar</a>
             <br />
-            <a href="">Calculators</a>
+            <a href="/">Calculators</a>
             <br />
-            <a href="">Markets</a>
+            <a href="/">Markets</a>
             <br />
-            <a href="">Sectors</a>
+            <a href="/">Sectors</a>
             <br />
           </div>
         </div>
@@ -98,11 +98,11 @@ function Footer() {
             Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase,
             Bengaluru - 560078, Karnataka, India. For any complaints pertaining
             to securities broking please write to{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               complaints@zerodha.com
             </a>
             , for DP related to{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               dp@zerodha.com
             </a>
             . Please ensure you carefully read the Risk Disclosure Document as
@@ -110,7 +110,7 @@ function Footer() {
           </p>
           <p>
             Procedure to file a complaint on{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               SEBI SCORES
             </a>
             : Register on SCORES portal. Mandatory details for filing complaints
@@ -118,7 +118,7 @@ function Footer() {
             Effective Communication, Speedy redressal of the grievances
           </p>
           <p>
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               Smart Online Dispute Resolution | Grievances Redressal Mechanism
             </a>
           </p>
@@ -137,7 +137,7 @@ function Footer() {
           </p>
           <p>
             India's largest broker based on networth as per NSE.{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               NSE broker factsheet
             </a>
           </p>
@@ -157,7 +157,7 @@ function Footer() {
             bank account. As a business we don't give stock tips, and have not
             authorized anyone to trade on behalf of others. If you find anyone
             claiming to be part of Zerodha and offering such services, please
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               create a ticket here
             </a>
             .
@@ -170,15 +170,15 @@ function Footer() {
             arbitration mechanism for such products.
           </p>
           <div className="text-center mt-4 pb-4 footer-links">
-            <a href="">NSE</a>
-            <a href="">BSE</a>
-            <a href="">MCX</a>
-            <a href="">Terms & conditions</a>
-            <a href="">Policies & procedures</a>
-            <a href="">Privacy policy</a>
-            <a href="">Disclosure</a>
-            <a href="">For investor's attention</a>
-            <a href="">Investor charter</a>
+            <a href="/">NSE</a>
+            <a href="/">BSE</a>
+            <a href="/">MCX</a>
+            <a href="/">Terms & conditions</a>
+            <a href="/">Policies & procedures</a>
+            <a href="/">Privacy policy</a>
+            <a href="/">Disclosure</a>
+            <a href="/">For investor's attention</a>
+            <a href="/">Investor charter</a>
           </div>
         </div>
       </div>
