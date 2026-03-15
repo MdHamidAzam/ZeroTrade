@@ -4,9 +4,6 @@ import LeftSection from "./LeftSection";
 import RightSection from "./RightSection";
 import Universe from "./Universe";
 
-import Footer from "../Footer";
-import Navbar from "../Navbar";
-
 function ProductPage() {
   return (
     <>

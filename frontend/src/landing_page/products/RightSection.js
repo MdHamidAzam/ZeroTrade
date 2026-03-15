@@ -19,7 +19,7 @@ function RightSection({
               style={{ marginLeft: "30px", textDecoration: "none" }}
             >
               Learn more{" "}
-              <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+              <i className="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
           </div>
         </div>
