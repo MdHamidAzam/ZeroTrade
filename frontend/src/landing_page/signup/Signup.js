@@ -11,7 +11,7 @@ function Signup() {
   const handleSignup = async () => {
     console.log(name, email, password);
     console.log("Signup button clicked");
-    const res = await fetch("http://localhost:3002/signup", {
+    const res = await fetch("https://zerodha-backend-l8k4.onrender.com/signup", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -27,7 +27,7 @@ function Signup() {
     console.log(data);
     if (data.token) {
       localStorage.setItem("token", data.token);
-      window.location.href = "http://localhost:3000/login";
+      window.location.href = "/login";
     }
   };
 

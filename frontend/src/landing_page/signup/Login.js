@@ -11,7 +11,7 @@ function Login() {
     e.preventDefault();
     console.log("Login button clicked");
 
-    const response = await fetch("http://localhost:3002/login", {
+    const response = await fetch("https://zerodha-backend-l8k4.onrender.com/login", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -23,7 +23,7 @@ function Login() {
     console.log(data);
     if (data.token) {
       localStorage.setItem("token", data.token);
-      window.location.href = "http://localhost:3001";
+      window.location.href = "/dashboard";
     }
   };
 
