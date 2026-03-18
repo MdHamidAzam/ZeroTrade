@@ -1,9 +1,10 @@
 import { useState } from "react";
+// import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
 import "./Login.css";
 
 function Login() {
-
+  // const navigate = useNavigate();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
@@ -11,19 +12,20 @@ function Login() {
     e.preventDefault();
     console.log("Login button clicked");
 
-    const response = await fetch("https://zerodha-backend-l8k4.onrender.com/login", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
+    const response = await fetch(`${process.env.REACT_APP_API_URL}/login`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ email, password }),
       },
-      body: JSON.stringify({ email, password }),
-    });
+    );
 
     const data = await response.json();
     console.log(data);
     if (data.token) {
       localStorage.setItem("token", data.token);
-      window.location.href = "/dashboard";
+      window.location.href = "http://localhost:3001";
     }
   };
 
