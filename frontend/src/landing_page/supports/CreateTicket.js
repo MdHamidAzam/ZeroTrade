@@ -31,11 +31,11 @@ function CreateTicket() {
           </a>
           <br />
           <a href="/" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Chargesat Zerodha
+            Chargesat ZeroTrade
           </a>
           <br />
           <a href="/" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Zerodha IDFC First Bank 3-in-1 Account
+            ZeroTrade IDFC First Bank 3-in-1 Account
           </a>
           <br />
           <a href="/" style={{ textDecoration: "none", lineHeight: "2.5" }}>
@@ -45,7 +45,7 @@ function CreateTicket() {
         </div>
         <div className="col-4 p-5 mt-2 mb-2">
           <h4 className="mb-4 fs-5">
-            <i className="fa-solid fa-user"></i>Your Zerodha Account
+            <i className="fa-solid fa-user"></i>Your ZeroTrade Account
           </h4>
           <a href="/" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Login Credentials
@@ -70,7 +70,7 @@ function CreateTicket() {
         </div>
         <div className="col-4 p-5 mt-2 mb-2">
           <h4 className="mb-4 fs-5">
-            <i className="fa-solid fa-chart-bar"></i> Your Zerodha Account
+            <i className="fa-solid fa-chart-bar"></i> Your ZeroTrade Account
           </h4>
           <a href="/" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Margin/leverage, Product and Order Types

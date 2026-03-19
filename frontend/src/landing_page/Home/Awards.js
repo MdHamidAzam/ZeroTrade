@@ -10,7 +10,7 @@ function Awards() {
         <div className="col-6 p-5 mt-5">
           <h1>Largest stock broker in India</h1>
           <p className="mb-5">
-            2+ million Zerodha clients contributeto over 15% of retail order
+            2+ million ZeroTrade clients contributeto over 15% of retail order
             volumesin india daily by trading and investing in:
           </p>
           <div className="row">

@@ -8,10 +8,10 @@ function Footer() {
           <div className="col-6 col-md-3">
             <img
               src="media/images/logo.svg"
-              alt="Zerodha Logo"
+              alt="ZeroTrade Logo"
               style={{ width: "50%" }}
             />
-            <p>&copy; 2010 - 2026, Zerodha Broking Ltd. All rights reserved.</p>
+            <p>&copy; 2010 - 2026, ZeroTrade Broking Ltd. All rights reserved.</p>
           </div>
           <div className="col">
             <p>Account</p>
@@ -61,9 +61,9 @@ function Footer() {
             <br />
             <a href="/">Careers</a>
             <br />
-            <a href="/">Zerodha Cares (CSR)</a>
+            <a href="/">ZeroTrade Cares (CSR)</a>
             <br />
-            <a href="/">Zerodha.tech</a>
+            <a href="/">ZeroTrade.tech</a>
             <br />
             <a href="/">Open source</a>
             <br />
@@ -91,19 +91,19 @@ function Footer() {
           style={{ fontSize: "14px" }}
         >
           <p>
-            Zerodha Broking Ltd.: Member of NSE, BSE, MCX & MSEI – SEBI
+            ZeroTrade Broking Ltd.: Member of NSE, BSE, MCX & MSEI – SEBI
             Registration no.: INZ000031633 CDSL/NSDL: Depository services
-            through Zerodha Broking Ltd. – SEBI Registration no.: IN-DP-431-2019
-            Registered Address: Zerodha Broking Ltd., #153/154, 4th Cross,
+            through ZeroTrade Broking Ltd. – SEBI Registration no.: IN-DP-431-2019
+            Registered Address: ZeroTrade Broking Ltd., #153/154, 4th Cross,
             Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase,
             Bengaluru - 560078, Karnataka, India. For any complaints pertaining
             to securities broking please write to{" "}
             <a href="/" style={{ textDecoration: "none" }}>
-              complaints@zerodha.com
+              complaints@zerotrade.com
             </a>
             , for DP related to{" "}
             <a href="/" style={{ textDecoration: "none" }}>
-              dp@zerodha.com
+              dp@zerotrade.com
             </a>
             . Please ensure you carefully read the Risk Disclosure Document as
             prescribed by SEBI | ICF
@@ -156,7 +156,7 @@ function Footer() {
             of allotment. In case of non allotment the funds will remain in your
             bank account. As a business we don't give stock tips, and have not
             authorized anyone to trade on behalf of others. If you find anyone
-            claiming to be part of Zerodha and offering such services, please
+            claiming to be part of ZeroTrade and offering such services, please
             <a href="/" style={{ textDecoration: "none" }}>
               create a ticket here
             </a>

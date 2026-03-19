@@ -62,14 +62,14 @@
 md-hamid-azam-54aaab309
 ) | [Twitter](#) | [Portfolio](#)
 
-# Zerodha Clone
+# ZeroTrade Clone
 
-A full stack clone of the Zerodha trading platform built using the *MERN Stack (MongoDB, Express.js, React.js, Node.js)*.
+A full stack clone of the ZeroTrade trading platform built using the *MERN Stack (MongoDB, Express.js, React.js, Node.js)*.
 This project demonstrates how modern trading platforms work by implementing a responsive landing page, a trading dashboard, and backend APIs.
 
 ## 🚀 Features
 
-* Responsive landing page similar to Zerodha
+* Responsive landing page similar to ZeroTrade
 * Interactive trading dashboard
 * Holdings and portfolio view
 * Orders management interface
@@ -96,7 +96,7 @@ This project demonstrates how modern trading platforms work by implementing a re
 
 ## 📂 Project Structure
 
-ZerodhaClone
+ZeroTradeClone
 │
 ├── frontend
 ├── dashboard
@@ -130,7 +130,7 @@ npm start
 
 ## 📌 Purpose of the Project
 
-Full stack Zerodha trading platform clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It includes a responsive landing page, trading dashboard, and backend APIs to simulate features like holdings, orders, and portfolio tracking while demonstrating modern full-stack architecture and scalable application design.
+Full stack ZeroTrade trading platform clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It includes a responsive landing page, trading dashboard, and backend APIs to simulate features like holdings, orders, and portfolio tracking while demonstrating modern full-stack architecture and scalable application design.
 
 ## 👨‍💻 Author
 

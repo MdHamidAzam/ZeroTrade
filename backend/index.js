@@ -314,7 +314,7 @@ app.post("/login", async(req,res)=>{
 });
 
 app.get("/", (req, res) => {
-  res.send("Zerodha Backend Running 🚀");
+  res.send("ZeroTrade Backend Running 🚀");
 });
 
 app.listen(PORT, () => {
