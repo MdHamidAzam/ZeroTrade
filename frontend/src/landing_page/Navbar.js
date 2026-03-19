@@ -16,7 +16,7 @@ function Navbar() {
       <div className="container">
 
         <Link className="navbar-brand" to="/">
-          <img src="media/images/zerotrade.png" style={{ width: "25%" }} alt="Logo" />
+          <img src="media/images/zerotrade.png" style={{ width: "50%" }} alt="Logo" />
         </Link>
 
         <button
