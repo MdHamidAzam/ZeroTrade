@@ -9,7 +9,7 @@ const BuyActionWindow = ({ uid }) => {
   const [stockPrice, setStockPrice] = useState(0.0);
 
   const handleBuyClick = () => {
-    axios.post("https://ZeroTrade-backend-l8k4.onrender.com/newOrder", {
+    axios.post("https://zerotrade-nsne.onrender.com/", {
       name: uid,
       qty: stockQuantity,
       price: stockPrice,
