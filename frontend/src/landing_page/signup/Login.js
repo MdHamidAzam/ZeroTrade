@@ -25,7 +25,7 @@ function Login() {
     console.log(data);
     if (data.token) {
       localStorage.setItem("token", data.token);
-      window.location.href = "http://localhost:3000";
+      window.location.href = "/dashboard";
     }
   };
 
