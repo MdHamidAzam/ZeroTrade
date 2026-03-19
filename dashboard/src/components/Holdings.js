@@ -1,18 +1,23 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { VerticalGraph } from "./VerticalGraph";
-
 // import { holdings } from "../data/data";
 
 const Holdings = () => {
   const [allHoldings, setAllHoldings] = useState([]);
+  const API = process.env.REACT_APP_API_URL;
 
   useEffect(() => {
-    axios.get("https://zerodha-backend-l8k4.onrender.com/allHoldings").then((res) => {
-      // console.log(res.data);
-      setAllHoldings(res.data);
-    });
-  }, []);
+    axios
+      .get(`${API}/allHoldings`)
+      .then((res) => {
+        // console.log(res.data);
+        setAllHoldings(res.data);
+      })
+      .catch((err) => {
+        console.error("Error:", err);
+      });
+  }, [API]);
 
   // const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
   const labels = allHoldings.map((subArray) => subArray["name"]);
