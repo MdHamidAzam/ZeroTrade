@@ -7,7 +7,7 @@ function Hero() {
         <img
           src={process.env.PUBLIC_URL + "/media/images/HomeHero.png"}
           className="mb-5"
-          alt="Hero"
+          alt="Stock trading dashboard preview"
         />
         <h1 className="mt-5">Invest in everything</h1>
         <p className="mb-5 fs-4">
