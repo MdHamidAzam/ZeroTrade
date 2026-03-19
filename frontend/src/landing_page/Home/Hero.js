@@ -5,9 +5,9 @@ function Hero() {
     <div className="container p-5 mb-5">
       <div className="row text-center">
         <img
-          src="media/images/HomeHero.png"
-          alt="Stock trading dashboard preview"
+          src={process.env.PUBLIC_URL + "/media/images/HomeHero.png"}
           className="mb-5"
+          alt="Hero"
         />
         <h1 className="mt-5">Invest in everything</h1>
         <p className="mb-5 fs-4">
