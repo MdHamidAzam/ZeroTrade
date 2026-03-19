@@ -7,7 +7,7 @@ function Footer() {
         <div className="row mt-5">
           <div className="col-6 col-md-3">
             <img
-              src="media/images/logo.svg"
+              src="media/images/zerotrade.png"
               alt="ZeroTrade Logo"
               style={{ width: "50%" }}
             />
