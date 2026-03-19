@@ -25,7 +25,7 @@ function Login() {
     console.log(data);
     if (data.token) {
       localStorage.setItem("token", data.token);
-      window.location.href = "https://zero-trade-aftx.vercel.app/";
+      window.location.href = "https://zero-trade-aftx.vercel.app";
     }
   };
 
