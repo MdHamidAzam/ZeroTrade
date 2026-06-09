@@ -58,9 +58,38 @@
 🌐 Social Links Section
 ## 🌐 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/
-md-hamid-azam-54aaab309
-) | [Twitter](#) | [Portfolio](#)
+* LinkedIn: https://www.linkedin.com/in/md-hamid-azam-54aaab309
+* GitHub: https://github.com/MdHamidAzam
+* Portfolio: Coming Soon
+
+## 🚀 Live Project Links
+
+### 📈 ZeroTrade - MERN Trading Platform Clone
+
+🌐 Frontend (Landing Page)
+https://zero-trade-88xj.vercel.app
+
+📊 Dashboard
+https://zero-trade-aftx.vercel.app
+
+⚙️ Backend API
+https://zerotrade-nsne.onrender.com
+
+📂 GitHub Repository
+https://github.com/MdHamidAzam/ZeroTrade
+
+---
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Express.js
+
+**Features:**
+
+* Responsive Landing Page
+* Trading Dashboard
+* Holdings & Portfolio Tracking
+* Orders Management
+* Backend REST APIs
+* MERN Full Stack Architecture
 
 # ZeroTrade Clone
 
