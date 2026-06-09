@@ -8,7 +8,8 @@
 ---
 
 👀 Profile Views Counter
-![](https://komarev.com/ghpvc/?username=MdHamidAzam&color=blue)
+
+![](https://komarev.com/ghpvc/?username=MdHamidAzam\&color=blue)
 
 ## 🚀 Tech Stack
 
@@ -17,6 +18,7 @@
   <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js"/>
 </p>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,vscode"/>
 </p>
@@ -39,7 +41,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=MdHamidAzam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MdHamidAzam\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ## 🧠 Coding Activity Graph
 
@@ -49,20 +51,24 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/MdHamidAzam/ZeroTrade/raw/output/github-contribution-grid-snake.svg)
-
----
-
-🌐 Social Links Section
 ## 🌐 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/md-hamid-azam-54aaab309
 * GitHub: https://github.com/MdHamidAzam
 * Portfolio: Coming Soon
 
-## 🚀 Live Project Links
+---
+
+## 🎯 Current Focus
+
+* Learning Data Structures & Algorithms (Java)
+* Building MERN Stack Projects
+* Exploring AI/ML
+* Preparing for Software Engineering Internships
+
+---
+
+## 🚀 Featured Project
 
 ### 📈 ZeroTrade - MERN Trading Platform Clone
 
@@ -78,11 +84,9 @@ https://zerotrade-nsne.onrender.com
 📂 GitHub Repository
 https://github.com/MdHamidAzam/ZeroTrade
 
----
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Express.js
-
-**Features:**
+### Features
 
 * Responsive Landing Page
 * Trading Dashboard
@@ -91,76 +95,6 @@ https://github.com/MdHamidAzam/ZeroTrade
 * Backend REST APIs
 * MERN Full Stack Architecture
 
-# ZeroTrade Clone
+---
 
-A full stack clone of the ZeroTrade trading platform built using the *MERN Stack (MongoDB, Express.js, React.js, Node.js)*.
-This project demonstrates how modern trading platforms work by implementing a responsive landing page, a trading dashboard, and backend APIs.
-
-## 🚀 Features
-
-* Responsive landing page similar to ZeroTrade
-* Interactive trading dashboard
-* Holdings and portfolio view
-* Orders management interface
-* Clean and modern UI
-* Full stack architecture using MERN
-
-## 🛠️ Tech Stack
-
-*Frontend*
-
-* React.js
-* HTML5
-* CSS3
-* JavaScript
-
-*Backend*
-
-* Node.js
-* Express.js
-
-*Database*
-
-* MongoDB
-
-## 📂 Project Structure
-
-ZeroTradeClone
-│
-├── frontend
-├── dashboard
-└── backend
-
-## ⚙️ Installation
-
-Clone the repository:
-
-
-git clone https://github.com/MdHamidAzam/ZeroTrade.git
-
-
-Go to the project directory:
-
-
-cd ZeroTrade
-
-
-Install dependencies:
-
-
-npm install
-
-
-Run the project:
-
-
-npm start
-
-
-## 📌 Purpose of the Project
-
-Full stack ZeroTrade trading platform clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It includes a responsive landing page, trading dashboard, and backend APIs to simulate features like holdings, orders, and portfolio tracking while demonstrating modern full-stack architecture and scalable application design.
-
-## 👨‍💻 Author
-
-*Md Hamid Azam*
+⭐ Always learning, building, and improving to become a top Software Engineer & AI/ML Engineer.
