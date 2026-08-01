@@ -55,7 +55,7 @@
 
 * LinkedIn: https://www.linkedin.com/in/md-hamid-azam-54aaab309
 * GitHub: https://github.com/MdHamidAzam
-* Portfolio: Coming Soon
+* Portfolio: https://md-hamid-portfolio.vercel.app/
 
 ---
 
