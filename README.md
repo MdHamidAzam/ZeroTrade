@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -41,12 +41,14 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=MdHamidAzam\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdHamidAzam&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ## 🧠 Coding Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdHamidAzam&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdHamidAzam&theme=tokyo-night" />
 </p>
 
 ---
