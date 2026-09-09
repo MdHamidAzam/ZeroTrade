@@ -1,27 +1,36 @@
 <h1 align="center">Hi 👋, I'm Md Hamid Azam</h1>
-<h3 align="center">MERN Stack Developer | Future AI/ML Engineer</h3>
+
+<h3 align="center">
+MERN Stack Developer | Future AI/ML Engineer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Md+Hamid+Azam;MERN+Stack+Developer;Future+AI%2FML+Engineer;Building+Real+World+Projects;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Md+Hamid+Azam;MERN+Stack+Developer;Future+AI%2FML+Engineer;Building+Real+World+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
-👀 Profile Views Counter
+## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=MdHamidAzam\&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdHamidAzam&color=blue" />
+</p>
+
+---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,vscode" />
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -34,69 +43,79 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MdHamidAzam&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdHamidAzam&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
-## 🧠 Coding Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdHamidAzam&theme=tokyo-night" />
+  <img src="https://streak-stats.demolab.com?user=MdHamidAzam&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/md-hamid-azam-54aaab309
-* GitHub: https://github.com/MdHamidAzam
-* Portfolio: https://md-hamid-portfolio.vercel.app/
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-hamid-azam-54aaab309">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/MdHamidAzam">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://md-hamid-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-* Learning Data Structures & Algorithms (Java)
-* Building MERN Stack Projects
-* Exploring AI/ML
-* Preparing for Software Engineering Internships
+- 📚 Learning Data Structures & Algorithms (Java)
+- 💻 Building MERN Stack Projects
+- 🤖 Exploring AI/ML
+- 🚀 Preparing for Software Engineering Internships
 
 ---
 
 ## 🚀 Featured Project
 
-### 📈 ZeroTrade - MERN Trading Platform Clone
+### 📈 ZeroTrade — MERN Trading Platform Clone
 
-🌐 Frontend (Landing Page)
+**🌐 Frontend — Landing Page**  
 https://zero-trade-88xj.vercel.app
 
-📊 Dashboard
+**📊 Dashboard**  
 https://zero-trade-aftx.vercel.app
 
-⚙️ Backend API
+**⚙️ Backend API**  
 https://zerotrade-nsne.onrender.com
 
-📂 GitHub Repository
+**📂 GitHub Repository**  
 https://github.com/MdHamidAzam/ZeroTrade
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+**Tech Stack:**  
+React.js • Node.js • Express.js • MongoDB
 
-### Features
+### ✨ Features
 
-* Responsive Landing Page
-* Trading Dashboard
-* Holdings & Portfolio Tracking
-* Orders Management
-* Backend REST APIs
-* MERN Full Stack Architecture
+- Responsive Landing Page
+- Trading Dashboard
+- Holdings & Portfolio Tracking
+- Orders Management
+- Backend REST APIs
+- MERN Full Stack Architecture
 
 ---
 
-⭐ Always learning, building, and improving to become a top Software Engineer & AI/ML Engineer.
+## 💡 About Me
+
+I'm passionate about building real-world applications and continuously improving my problem-solving and development skills.
+
+Currently, I'm focused on:
+
+- Full Stack Web Development
+- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning
+- Building practical projects
+
+---
+
+<p align="center">
+  ⭐ Always learning, building, and improving to become a top Software Engineer & AI/ML Engineer.
+</p>
