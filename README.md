@@ -18,20 +18,6 @@ MERN Stack Developer | Future AI/ML Engineer
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,vscode" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
