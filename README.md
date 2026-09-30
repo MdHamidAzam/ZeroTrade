@@ -41,6 +41,10 @@ MERN Stack Developer | Future AI/ML Engineer
 </p>
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/MdHamidAzam" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamidAzam&layout=compact&theme=tokyonight" />
 </p>
 
