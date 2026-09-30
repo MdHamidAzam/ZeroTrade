@@ -37,11 +37,7 @@ MERN Stack Developer | Future AI/ML Engineer
 ## 🔥 GitHub contribution graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdHamidAzam&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/MdHamidAzam" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdHamidAzam&theme=tokyonight" />
 </p>
 
 <p align="center">
